@@ -1727,7 +1727,7 @@
         "id": "VN28",
         "name": "Kon Tum"
       },
-      "id": 0
+      "id": 1
     },
     {
       "geometry": {
@@ -4071,7 +4071,7 @@
         "id": "VN33",
         "name": "Đắk Lắk"
       },
-      "id": 2
+      "id": 3
     },
     {
       "geometry": {
@@ -7989,7 +7989,7 @@
       "properties": {
         "source": "https://simplemaps.com",
         "id": "VN45",
-        "name": "Đồng Tháp"
+        "name": "Ðong Tháp"
       },
       "id": 8
     },
@@ -9109,7 +9109,7 @@
         "id": "VN47",
         "name": "Kiên Giang"
       },
-      "id": 9
+      "id": 10
     },
     {
       "geometry": {
@@ -56033,7 +56033,7 @@
         "id": "VN05",
         "name": "Sơn La"
       },
-      "id": 11
+      "id": 12
     },
     {
       "geometry": {
@@ -103807,7 +103807,7 @@
       "properties": {
         "source": "https://simplemaps.com",
         "id": "VN26",
-        "name": "Thừa Thiên Huế"
+        "name": "Thừa Thiên - Huế"
       },
       "id": 18
     },
@@ -112797,7 +112797,7 @@
         "id": "VN52",
         "name": "Sóc Trăng"
       },
-      "id": 25
+      "id": 26
     },
     {
       "geometry": {
@@ -113247,7 +113247,7 @@
         "id": "VN46",
         "name": "Tiền Giang"
       },
-      "id": 26
+      "id": 27
     },
     {
       "geometry": {
@@ -115005,9 +115005,9 @@
       "properties": {
         "source": "https://simplemaps.com",
         "id": "VNSG",
-        "name": "Hồ Chí Minh city"
+        "name": "Hồ Chí Minh"
       },
-      "id": 28
+      "id": 29
     },
     {
       "geometry": {
@@ -117383,9 +117383,9 @@
       "properties": {
         "source": "https://simplemaps.com",
         "id": "VN73",
-        "name": "Hau Giang"
+        "name": "Hậu Giang"
       },
-      "id": 32
+      "id": 33
     },
     {
       "geometry": {
@@ -117713,7 +117713,7 @@
         "id": "VN49",
         "name": "Vĩnh Long"
       },
-      "id": 33
+      "id": 34
     },
     {
       "geometry": {
@@ -127091,7 +127091,7 @@
       "properties": {
         "source": "https://simplemaps.com",
         "id": "VNHN",
-        "name": "Ha Noi"
+        "name": "Hà Nội"
       },
       "id": 53
     },
@@ -131209,7 +131209,7 @@
         "id": "VNCT",
         "name": "Cần Thơ"
       },
-      "id": 62
+      "id": 63
     }
   ]
 }
